@@ -1,0 +1,14 @@
+Description:
+
+Aim of this project is to forecast demand of products at a retail store based on their past data. Here a forecasting system is created with the help of time series models ARIMA, SARIMA.
+
+Steps involved:
+
+Load dataset to environment, clean and sanitize it.
+Choose suitable forecasting model for the dataset.
+Fit the model to dataset and make predictions.
+Visualize the predictions.
+
+Project Outcome:
+
+Learn about different time series models like ARIMA, SARIMA.
